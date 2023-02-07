@@ -1,8 +1,8 @@
-Data Folder
+# Data Folder
 
 link to data source:  https://www.kaggle.com/datasets/mishra5001/credit-card 
 
-Dataset description:
+## Dataset description:
 
 This dataset consists of the data which can be used to issue the credit card approval, credit scores and history with all the details.
 
