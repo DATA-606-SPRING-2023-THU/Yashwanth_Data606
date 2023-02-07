@@ -1,17 +1,53 @@
 # Draft Proposal 
 
-This file is yourdraft proposal. 
+## Project Title: Credit Card Fraud Detection 
 
-The following are the Guidelines. 
+## Project Overview: 
 
-For your project proposal, please use the following questions to guide your writing:
+Credit card fraud is a major issue in the banking and finance sector, as it involves the use of stolen or illegally obtained credit cards for fraudulent activities. The US Federal Trade Commission estimated that the amount of money lost to credit card fraud in the US alone was $8.6 billion in 2018. This highlights the need for effective fraud detection systems to identify and prevent fraudulent transactions.
+This report will provide a critical evaluation of the fraud detection systems currently in use in banking and finance. The report will assess the current fraud detection systems in terms of their effectiveness, accuracy and scalability, in order to identify areas for improvement.
 
-- What is your issue of interest (provide sufficient background information)?
-- Why is this issue important to you and/or to others?
-- What questions do you have in mind and would like to answer?
-- Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, attributes of data. etc.)?
-- What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect to analyze?
-- What variables/measures do you plan to use in your analysis (variables should be tied to the questions in #3)?
-- What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
-- How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?
-- What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practicle applications, etc)? 
+## Issue of interest:
+
+The issue of interest for this project is to analyze and compare the performance of machine learning models for predicting fraudulent credit card transactions. Credit card fraud is a major problem for banks and credit card companies, resulting in significant losses of money each year. Understanding the factors that contribute to fraudulent transactions is key to preventing and minimizing fraud.
+
+## Importance of the issue:
+
+This issue is important because credit card fraud is a major issue for banks and credit card companies, resulting in billions of dollars in losses each year. Understanding the factors that contribute to fraudulent transactions is key to preventing and minimizing fraud. By analyzing the data, it is possible to identify patterns that can be used to create more effective fraud detection methods and reduce losses.
+
+## Objective:
+
+1. To determine what features are most useful in predicting fraudulent credit card transactions?
+2. To identify what machine learning models are best suited for predicting fraudulent credit card transactions.
+3. To identify which machine learning model provides the best accuracy in predicting fraudulent credit card transactions.
+
+## Data Source:
+
+The data used for this project will be a dataset from the Kaggle platform, which contains credit card transaction information from a bank in Europe. The dataset contains more than 30000 observations, 122 attributes. The target variable is labeled as either 1 for customer with payment issues or difficulties and 0 otherwise. This will be used to illustrate fraud or non-fraud transaction. The data is of poor quality and needs to be cleaned before any analysis is done. The source of data is reliable.
+
+## Unit Analysis:
+
+The unit of analysis for this project will be individual credit card transactions. There are more than 30000 observations in the application dataset, so this will be the number of transactions that will be analyzed.
+
+## Variables/Measures
+
+The variables/measures that will be used in this project are the 122 attributes provided in the application dataset. These include information such as the target, name of contract type, code gender, amount of the income, the time of the transaction, organization type, the country of the cardholder, and more.
+
+## Techniques/Models
+
+The techniques/models that will be used in this project are supervised machine learning models. These models will be used to predict whether a given transaction is fraudulent or not. The models that will be used are:
+- Random Forest
+- Support Vector Machines
+- Logistic Regression
+- K-Nearest Neighbors
+
+## Machine Learning Development and Evaluation
+
+The machine learning models will be developed using Python and implemented using Jupyter Notebook. We must first establish our machine learning column in our dataset after completing all pre-processing processes. Data should be divided into training and test sets. utilizing EDA for data insights and visualization. Utilizing different machine learning libraries such as Sklearn, Numpy, and Pandas, clean and convert the data frame. Plot a variety of graphs to comprehend the relationships between the dataset's various properties. The performance of the models will be evaluated using metrics such as
+- Accuracy
+- Precision and Recall
+- F1 score.
+
+## Outcomes:
+
+The outcomes of this project are to better understand the factors that contribute to fraudulent credit card transactions, and to create a model that can accurately predict fraudulent transactions. The model can then be used by banks and credit card companies to more effectively detect and prevent fraud. Credit card fraud is a major issue in the banking and finance sector, and effective fraud detection systems are essential to combat it.
