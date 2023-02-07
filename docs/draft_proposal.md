@@ -51,3 +51,10 @@ The machine learning models will be developed using Python and implemented using
 ## Outcomes:
 
 The outcomes of this project are to better understand the factors that contribute to fraudulent credit card transactions, and to create a model that can accurately predict fraudulent transactions. The model can then be used by banks and credit card companies to more effectively detect and prevent fraud. Credit card fraud is a major issue in the banking and finance sector, and effective fraud detection systems are essential to combat it.
+
+link to data source: https://www.kaggle.com/datasets/mishra5001/credit-card
+
+### Dataset description:
+This dataset consists of the data which can be used to issue the credit card approval, credit scores and history with all the details.
+
+https://drive.google.com/file/d/1GuJcJTH85h2FowExWU0kbRq7cNo3HwQV/view
