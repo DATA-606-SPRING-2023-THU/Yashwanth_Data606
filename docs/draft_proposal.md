@@ -28,6 +28,16 @@ The data used for this project will be a dataset from the Kaggle platform, which
 ## Unit Analysis:
 
 The unit of analysis for this project will be individual credit card transactions. There are more than 30000 observations in the application dataset, so this will be the number of transactions that will be analyzed.
+### Final useful columns
+SK_ID_CURR                 
+TARGET                     
+AMT_INCOME_TOTAL           
+AMT_CREDIT                 
+AMT_ANNUITY                
+AMT_GOODS_PRICE            
+NAME_INCOME_TYPE           
+HOUR_APPR_PROCESS_START    
+ORGANIZATION_TYPE        
 
 ## Variables/Measures
 
