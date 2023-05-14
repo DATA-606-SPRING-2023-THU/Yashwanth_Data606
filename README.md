@@ -24,6 +24,6 @@ To determine what features are most useful in predicting fraudulent credit card 
 - algorithms : Regression based algorithms used such as LogisticRegression, RandomForest, DecisionTree, SVM, KNN
 
 # Repository Structure
-data : directory for datasets.
-docs : directory for project draft documentations.
-src : directory for project code base.
+- data : directory for datasets.
+- docs : directory for project draft documentations.
+- src : directory for project code base.
