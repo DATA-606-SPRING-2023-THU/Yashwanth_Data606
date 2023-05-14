@@ -42,6 +42,7 @@ The techniques/models that will be used in this project are supervised machine l
 - Random Forest
 - Support Vector Machines
 - Logistic Regression
+- Decision Tree
 - K-Nearest Neighbors
 
 ## Machine Learning Development and Evaluation
