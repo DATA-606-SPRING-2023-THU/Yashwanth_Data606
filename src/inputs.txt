@@ -1,0 +1,22 @@
+
+Fraudulent
+Ext_source_1 = 0.08
+Ext_source_2 = 0.26
+Ext_source_3 = 0.13
+Days_Register = -3648
+Days_birth = -9461
+Days_id_publish = -2120
+Amt_annuity = 24700.50
+Amt_credit = 406597.50
+Commonaera_avg = 0.10
+
+Non-fraudulent
+Ext_source_1 = 0.02
+Ext_source_2 = 0.16
+Ext_source_3 = 0.14
+Days_Register = 100
+Days_birth = -1461
+Days_id_publish = 120
+Amt_annuity = 24700.50
+Amt_credit = 40089.50
+Commonaera_avg = 1.05
