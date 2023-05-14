@@ -23,16 +23,16 @@ The data used for this project will be a dataset from the Kaggle platform, which
 The unit of analysis for this project will be individual credit card transactions. There are more than 30000 observations in the application dataset, so this will be the number of transactions that will be analyzed.
 
 ### Final useful columns
-EXT_SOURCE_1
-EXT_SOURCE_2
-EXT_SOURCE_3
-DAYS_BIRTH
-DAYS_EMPLOYED
-DAYS_REGISTRATION
-DAYS_ID_PUBLISH
-AMT_ANNUITY
-COMMONAREA_AVG
-AMT_CREDIT        
+1. EXT_SOURCE_1
+2. EXT_SOURCE_2
+3. EXT_SOURCE_3
+4. DAYS_BIRTH
+5. DAYS_EMPLOYED
+6. DAYS_REGISTRATION
+7. DAYS_ID_PUBLISH
+8. AMT_ANNUITY
+9. COMMONAREA_AVG
+10. AMT_CREDIT        
 
 ## Variables/Measures
 The variables/measures that will be used in this project are the 122 attributes provided in the application dataset. These include information such as the target, name of contract type, code gender, amount of the income, the time of the transaction, organization type, the country of the cardholder, and more.
