@@ -98,3 +98,5 @@ https://www.riskified.com/fraud/credit-card-fraud-prevention/?utm_source=google&
 https://github.com/Yash42ds/Yashwanth_Data606/blob/main/docs/Capstone.pptx
 
 - youtube link:
+
+https://youtu.be/t85eiNB94Bg
