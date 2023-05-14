@@ -49,7 +49,7 @@ An overview of how credit crad fraud transactions taking change over the years c
 # Machine Learning Models Used:
 - Logistic Regression
 - Random forest classifier
-- Decesion Tree Classifier
+- Decision Tree Classifier
 - K-Nearest Neighbors Classifier
 - Support Vector Machine Classifier
 
