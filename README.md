@@ -17,7 +17,7 @@ To determine what features are most useful in predicting fraudulent credit card 
 - Data preparation, cleaning, and outlier analysis.
 - Exploratory data analysis and insight generation.
 - Feature selection and machine learning modelling.
-- 
+
 # Technologies Used
 - programming language : Python, streamlit
 - libraries : Pandas, Plotly, sklearn, scipy, numpy
