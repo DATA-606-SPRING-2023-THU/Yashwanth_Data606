@@ -29,15 +29,16 @@ The data used for this project will be a dataset from the Kaggle platform, which
 
 The unit of analysis for this project will be individual credit card transactions. There are more than 30000 observations in the application dataset, so this will be the number of transactions that will be analyzed.
 ### Final useful columns
-SK_ID_CURR                 
-TARGET                     
-AMT_INCOME_TOTAL           
-AMT_CREDIT                 
-AMT_ANNUITY                
-AMT_GOODS_PRICE            
-NAME_INCOME_TYPE           
-HOUR_APPR_PROCESS_START    
-ORGANIZATION_TYPE        
+- EXT_SOURCE_1
+- EXT_SOURCE_2
+- EXT_SOURCE_3
+- DAYS_BIRTH - Birthday
+- DAYS_EMPLOYED - Start date of employment
+- DAYS_REGISTRATION - Number of days registered
+- DAYS_ID_PUBLISH - ID publised date
+- AMT_ANNUITY - Amount credit and debited
+- COMMONAREA_AVG - Difference of annuity
+- AMT_CREDIT - credited amount     
 
 ## Variables/Measures
 
@@ -48,6 +49,7 @@ The variables/measures that will be used in this project are the 122 attributes 
 The techniques/models that will be used in this project are supervised machine learning models. These models will be used to predict whether a given transaction is fraudulent or not. The models that will be used are:
 - Random Forest
 - Support Vector Machines
+- Decision Tree
 - Logistic Regression
 - K-Nearest Neighbors
 
