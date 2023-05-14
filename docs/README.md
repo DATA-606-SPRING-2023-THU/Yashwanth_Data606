@@ -82,12 +82,21 @@ The user interface allows users to input  details for detecting the transaction:
 # References:
 - Some insights which helped in project from kaggle
 
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+  https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 - dataset for the credit card fraud transaction detection
 
-https://www.kaggle.com/datasets/mishra5001/credit-card
+  https://www.kaggle.com/datasets/mishra5001/credit-card
 
 - Credit card fraud prevention
 
-https://www.riskified.com/fraud/credit-card-fraud-prevention/?utm_source=google&utm_medium=cpc&utm_campaign=usaccfraud&utm_id=ccfraud&utm_term=ccraud&utm_content=platform&gad=1&gclid=CjwKCAjwjYKjBhB5EiwAiFdSfspGBG9EWRuOk2EUzV7rC0A_8ysdruzyjmjNrn87rKh3S4L-RGkNbhoCH8EQAvD_BwE
+  https://www.riskified.com/fraud/credit-card-fraud-prevention/?utm_source=google&utm_medium=cpc&utm_campaign=usaccfraud&utm_id=ccfraud&utm_term=ccraud&utm_content=platform&gad=1&gclid=CjwKCAjwjYKjBhB5EiwAiFdSfspGBG9EWRuOk2EUzV7rC0A_8ysdruzyjmjNrn87rKh3S4L-RGkNbhoCH8EQAvD_BwE
+  
+# Links:
+Presentation link:
+
+https://github.com/Yash42ds/Yashwanth_Data606/blob/main/docs/Capstone.pptx
+
+youtube link:
+
+https://youtu.be/t85eiNB94Bg
