@@ -71,7 +71,7 @@ The user interface allows users to input  details for detecting the transaction:
 ![Home](https://github.com/Yash42ds/Yashwanth_Data606/assets/124218850/18c80bc8-c61c-40a1-a741-2dc12eb93ea2)
 
 # Conclusion:
-- Looking at the accuracy scores and classification reports for each model, it appears that the logistic regression, random forest, and support vector machine (SVM) classifiers all have the same accuracy score of 94.54%. These three models correctly predict 1627 out of 1721 observations in the test set.
+- Looking at the accuracy scores and classification reports for each model, it appears that the logistic regression, random forest, and support vector machine (SVM)  classifiers all have the same accuracy score of 94.54%. These three models correctly predict 1627 out of 1721 observations in the test set.
 
 - However, when looking at the classification reports, we see that these three models have a precision of 0 for the positive class (class 1). This means that these models did not correctly predict any of the positive cases in the test set, indicating that they may not be the best choice for this particular problem.
 
@@ -82,21 +82,21 @@ The user interface allows users to input  details for detecting the transaction:
 # References:
 - Some insights which helped in project from kaggle
 
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+  https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 - dataset for the credit card fraud transaction detection
 
-https://www.kaggle.com/datasets/mishra5001/credit-card
+  https://www.kaggle.com/datasets/mishra5001/credit-card
 
 - Credit card fraud prevention
 
-https://www.riskified.com/fraud/credit-card-fraud-prevention/?utm_source=google&utm_medium=cpc&utm_campaign=usaccfraud&utm_id=ccfraud&utm_term=ccraud&utm_content=platform&gad=1&gclid=CjwKCAjwjYKjBhB5EiwAiFdSfspGBG9EWRuOk2EUzV7rC0A_8ysdruzyjmjNrn87rKh3S4L-RGkNbhoCH8EQAvD_BwE
+  https://www.riskified.com/fraud/credit-card-fraud-prevention/?utm_source=google&utm_medium=cpc&utm_campaign=usaccfraud&utm_id=ccfraud&utm_term=ccraud&utm_content=platform&gad=1&gclid=CjwKCAjwjYKjBhB5EiwAiFdSfspGBG9EWRuOk2EUzV7rC0A_8ysdruzyjmjNrn87rKh3S4L-RGkNbhoCH8EQAvD_BwE
 
 # Links
 - Presentation link:
 
-https://github.com/Yash42ds/Yashwanth_Data606/blob/main/docs/Capstone.pptx
+  https://github.com/Yash42ds/Yashwanth_Data606/blob/main/docs/Capstone.pptx
 
 - youtube link:
 
-https://youtu.be/t85eiNB94Bg
+  https://youtu.be/t85eiNB94Bg
