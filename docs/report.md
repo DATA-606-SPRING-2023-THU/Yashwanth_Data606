@@ -91,3 +91,10 @@ https://www.kaggle.com/datasets/mishra5001/credit-card
 - Credit card fraud prevention
 
 https://www.riskified.com/fraud/credit-card-fraud-prevention/?utm_source=google&utm_medium=cpc&utm_campaign=usaccfraud&utm_id=ccfraud&utm_term=ccraud&utm_content=platform&gad=1&gclid=CjwKCAjwjYKjBhB5EiwAiFdSfspGBG9EWRuOk2EUzV7rC0A_8ysdruzyjmjNrn87rKh3S4L-RGkNbhoCH8EQAvD_BwE
+
+# Links
+- Presentation link:
+
+https://github.com/Yash42ds/Yashwanth_Data606/blob/main/docs/Capstone.pptx
+
+- youtube link:
