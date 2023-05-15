@@ -33,7 +33,7 @@ Final useful columns:
 - AMT_CREDIT - credited amount
 
 Final dataset provides a comprehensive view of all the information gathered from the data
-(https://github.com/Yash42ds/Yashwanth_Data606/assets/124218850/95a9eb0d-ddff-4e55-a50e-8c046ffd885a)
+https://github.com/DATA-606-SPRING-2023-THU/Yashwanth_Data606/blob/main/docs/images/dataframe.png
 
 # Exploratory Data Analysis
 
