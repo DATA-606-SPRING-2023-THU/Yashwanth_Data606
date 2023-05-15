@@ -1,3 +1,4 @@
+#### Sample inputs for Fraudulent and Legitimate Transaction cases:
 
 Fraudulent
 Ext_source_1 = 0.08
