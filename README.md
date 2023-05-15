@@ -27,3 +27,12 @@ To determine what features are most useful in predicting fraudulent credit card 
 - data : directory for datasets.
 - docs : directory for project draft documentations.
 - src : directory for project code base.
+
+# Link
+Presentation link:
+
+https://github.com/Yash42ds/Yashwanth_Data606/blob/main/docs/Capstone.pptx
+
+youtube link:
+
+https://youtu.be/t85eiNB94Bg
