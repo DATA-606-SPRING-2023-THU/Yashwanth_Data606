@@ -32,10 +32,10 @@ Final useful columns:
 - COMMONAREA_AVG - Difference of annuity
 - AMT_CREDIT - credited amount
 
-Final dataset provides a comprehensive view of all the information gathered from the data
+Final dataset provides a comprehensive view of  all the information gathered from the data
 
-https://github.com/DATA-606-SPRING-2023-THU/Yashwanth_Data606/blob/main/docs/images/dataframe.png
-
+![dataframe](https://github.com/Yash42ds/Yashwanth_Data606/assets/124218850/6b95ea39-21f7-49db-b5c8-02db22799c54)
+ 
 # Exploratory Data Analysis
 
 - A histogram of the AMT_CREDIT variable in the dataset using the hist function from the matplotlib library. The histogram is created with 20 bins and black edges around each bin. The title function is used to add a title to the plot. The resulting histogram is displayed using the show function.
