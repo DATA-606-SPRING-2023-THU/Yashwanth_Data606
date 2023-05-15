@@ -40,15 +40,15 @@ Final dataset provides a comprehensive view of  all the information gathered fro
 
 - A histogram of the AMT_CREDIT variable in the dataset using the hist function from the matplotlib library. The histogram is created with 20 bins and black edges around each bin. The title function is used to add a title to the plot. The resulting histogram is displayed using the show function.
 
-![amount_credit](https://github.com/Yash42ds/Yashwanth_Data606/assets/124218850/561404da-fd69-4dcd-8eef-0bdca55ca2eb)
+![amount_credit](https://github.com/DATA-606-SPRING-2023-THU/Yashwanth_Data606/blob/main/docs/images/amount_credit.png)
 
 An overview of how credit crad fraud transactions taking change over the years can be shown in the below picture
 
-![overview](https://github.com/Yash42ds/Yashwanth_Data606/assets/124218850/ae297a01-066c-40f5-8088-6a39b7ecd558)
+![overview](https://github.com/DATA-606-SPRING-2023-THU/Yashwanth_Data606/blob/main/docs/images/overview.png)
 
 - Feature importances are taken from the dataset and working on them can give simplified data with much information needed for the detection of credit crad fraud transactions.
 
-![Features](https://github.com/Yash42ds/Yashwanth_Data606/assets/124218850/139b3ddb-665f-4e92-9074-fbbe0768ba61)
+![Features](https://github.com/DATA-606-SPRING-2023-THU/Yashwanth_Data606/blob/main/docs/images/Features.png)
 
 # Machine Learning Models Used:
 - Logistic Regression
@@ -72,7 +72,7 @@ An overview of how credit crad fraud transactions taking change over the years c
 
 The user interface allows users to input  details for detecting the transaction:
 
-![Home](https://github.com/Yash42ds/Yashwanth_Data606/assets/124218850/18c80bc8-c61c-40a1-a741-2dc12eb93ea2)
+![Home](https://github.com/DATA-606-SPRING-2023-THU/Yashwanth_Data606/blob/main/docs/images/Home.png)
 
 # Conclusion:
 - Looking at the accuracy scores and classification reports for each model, it appears that the logistic regression, random forest, and support vector machine (SVM)  classifiers all have the same accuracy score of 94.54%. These three models correctly predict 1627 out of 1721 observations in the test set.
