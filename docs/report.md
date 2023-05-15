@@ -5,6 +5,9 @@
 
 # Project Title : Credit Card Fraud detection
 
+![image](https://github.com/Yash42ds/Yashwanth_Data606/assets/124218850/a78e13ef-4ebe-467b-801d-50b0252e912d)
+
+
 # Introduction
 Credit card fraud is a major issue in the banking and finance sector, as it involves the use of stolen or illegally obtained credit cards for fraudulent activities. The US Federal Trade Commission estimated that the amount of money lost to credit card fraud in the US alone was $8.6 billion in 2018. This highlights the need for effective fraud detection systems to identify and prevent fraudulent transactions. This report will provide a critical evaluation of the fraud detection systems currently in use in banking and finance. The report will assess the current fraud detection systems in terms of their effectiveness, accuracy and scalability, in order to identify areas for improvement.
 
