@@ -34,7 +34,7 @@ Final useful columns:
 
 Final dataset provides a comprehensive view of  all the information gathered from the data
 
-![dataframe](https://github.com/Yash42ds/Yashwanth_Data606/assets/124218850/6b95ea39-21f7-49db-b5c8-02db22799c54)
+![dataframe](https://github.com/DATA-606-SPRING-2023-THU/Yashwanth_Data606/blob/main/docs/images/dataframe.png)
  
 # Exploratory Data Analysis
 
